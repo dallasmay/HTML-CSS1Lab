@@ -1,0 +1,63 @@
+h1 {
+    font-family: 'Joan', serif;
+    text-align: center;
+    font-size: 64px;
+}
+
+h2 {
+    font-family: 'Joan', serif;
+}
+
+h3 {
+    font-family: 'Joan', serif;
+    font-weight: 500;
+}
+
+body {
+    background-color: rgb(246, 231, 189);
+}
+button {
+    background-color: rgb(139, 211, 247);
+    margin: 10px;
+    border-radius: 10px;
+    color: rgb(2, 37, 67);
+}
+.Radio {
+    font-family: 'Joan', serif;
+}
+
+.Submit {
+    font-family: 'Joan', serif;
+    font-weight: bold;
+}
+
+#PhilTrainingHerculesGIF {
+    display: flex;
+    justify-content: center;
+}
+#GifDesc {
+    display: flex;
+    justify-content: center;
+}
+
+#PhilPhotoBox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+
+#PhilPhoto {
+    height: 70vh;
+    
+}
+
+#divider {
+    background-image: url("GreekDivider2.png");
+    width: inherit;
+    height: 86px;
+}
+
+p {
+    font-family: 'Joan', serif;
+}
